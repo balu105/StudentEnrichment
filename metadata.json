@@ -1,0 +1,8 @@
+{
+  "name": "AI-Driven Hiring and Job-Readiness Assessment System",
+  "description": "A unified AI system integrating resume intelligence, domain-specific technical testing, and multimodal AI interviews. It calculates a Job-Readiness Index (JRI) to help recruiters identify talent and guide students with personalized improvement paths.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
