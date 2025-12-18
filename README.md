@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Veritas AI - The Brutally Honest Assessment Platform
 
 Veritas AI is an autonomous, enterprise-grade hiring assessment ecosystem designed to replace subjective recruitment with brutal, data-driven precision. It orchestrates the entire hiring lifecycle—from role definition to final offer—using a multi-stage, strictly proctored AI pipeline.
@@ -71,3 +72,6 @@ Veritas AI is an autonomous, enterprise-grade hiring assessment ecosystem design
 ---
 
 *Built for the Google Gemini Developer Competition.*
+=======
+# StudentEnrichment
+>>>>>>> 41beba7e2d6eb4563fb032770a127f43682d254d
